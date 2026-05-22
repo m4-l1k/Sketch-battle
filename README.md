@@ -1,2 +1,0 @@
-# Sketch-battle
-Web game
